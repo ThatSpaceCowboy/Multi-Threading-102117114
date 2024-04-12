@@ -6,4 +6,5 @@ The table corresponding to the time taken with respect to number of threads is a
 <img width="813" alt="Screenshot 2024-04-12 at 3 44 33 PM" src="https://github.com/ThatSpaceCowboy/Multi-Threading-102117114/assets/41112158/51c89bbb-28f5-4e67-a88c-db5f63df7b96">
 
 Graph:
+
 ![download](https://github.com/ThatSpaceCowboy/Multi-Threading-102117114/assets/41112158/83a9d656-9f81-4e37-bf75-c14998ca6874)
